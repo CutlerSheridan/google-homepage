@@ -1,1 +1,1 @@
-# google-homepage
+Practice project - recreating the Google homepage
